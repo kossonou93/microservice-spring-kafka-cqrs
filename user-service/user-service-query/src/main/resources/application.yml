@@ -8,4 +8,4 @@ spring:
         spring:
           json:
             trusted:
-              packages: com.obineo.userservicequery.dto
+              packages: com.obineo.event
